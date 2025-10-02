@@ -1,0 +1,11 @@
+opencv-python
+numpy
+face-recognition
+picamera2
+torch
+torchvision
+torchaudio
+pandas
+matplotlib
+especk
+pandas
